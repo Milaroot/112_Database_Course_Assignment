@@ -1,0 +1,4 @@
+USE LAB08
+
+SELECT * FROM Sales
+WHERE P_id = 'P0001' OR P_id = 'P0005'
